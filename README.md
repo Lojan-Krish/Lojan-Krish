@@ -33,7 +33,7 @@ BEng (Hons) Software Engineering — London Metropolitan University (UK), in pro
 
 ![One person, no handoff: design, front end, back end, performance, technical SEO, DNS and mail](pipeline.svg)
 
-![15+ production sites, 90+ PageSpeed, 446k lines of C#, 24k lines of PHP, 11 domains](stats.svg)
+![208k lines in CampusHub, 446k in SmartMed, 24k in the WordPress plugin, 15+ production sites, 90+ PageSpeed, 11 domains](stats.svg)
 
 ![Company work at BBK Partnership, and my own solo project](work.svg)
 
@@ -236,7 +236,13 @@ Rebuilt the company website. Pages around 60% faster, bounce rate down about 20%
 
 ## Education
 
-**BEng (Hons) Software Engineering** — ESOFT Metro Campus Jaffna, validated by London Metropolitan University (UK). In progress; final-year project **CampusHub** above.
+| Qualification | Institution |
+|---|---|
+| **BEng (Hons) Software Engineering** — in progress | ESOFT Metro Campus Jaffna, validated by London Metropolitan University (UK) |
+| **Diploma in Information Technology** (DITEC) | ESOFT Metro Campus |
+| **Diploma in English** (DIE) | ESOFT Metro Campus |
+
+Final-year project: **CampusHub**, above.
 
 ---
 
