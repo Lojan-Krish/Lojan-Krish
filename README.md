@@ -182,15 +182,17 @@ The interesting part of a migration is never the transfer itself. It is the orde
 |---|---|---|
 | [bbkca.lk](https://bbkca.lk) | BBK Partnership Chartered Accountants | Live · canonical |
 | [jaffnastallion.com](https://jaffnastallion.com) | Jaffna Stallions Cricket Academy | Live · canonical |
-| jaffnastallions.com | same install as above | Live · parked alias |
-| jaffnastallion.lk | same install as above | Live · parked alias |
-| jaffnastallions.lk | same install as above | Live · parked alias |
+| [jaffnastallions.com](https://jaffnastallions.com) | same install as above | Live · parked alias |
+| [jaffnastallion.lk](https://jaffnastallion.lk) | same install as above | Live · parked alias |
+| [jaffnastallions.lk](https://jaffnastallions.lk) | same install as above | Live · parked alias |
 | [supportourschool.org](https://supportourschool.org) | Support Our Schools — education charity | Live · canonical |
-| supportourschools.org.uk | same install as above | Live · parked alias |
-| inovatejaffna.com | Zoho Mail live, staff mailboxes issued | Site in progress |
-| in0v8jaffna.com | — | Site in progress |
-| jaffnaartfestival.com | — | Site in progress |
-| jaffnadirectory.com | — | Site in progress |
+| [supportourschools.org.uk](https://supportourschools.org.uk) | same install as above | Live · parked alias |
+| [inovatejaffna.com](https://inovatejaffna.com) | Zoho Mail live, staff mailboxes issued | Holding page live · site in progress |
+| [in0v8jaffna.com](https://in0v8jaffna.com) | reserved variant of the above | Holding page live · site in progress |
+| jaffnaartfestival.com | — | DNS, SSL and hosting ready · site not started |
+| jaffnadirectory.com | — | DNS, SSL and hosting ready · site not started |
+
+Every link above goes to something real. The two rows without a link have DNS, SSL and hosting provisioned but no page worth showing yet — I would rather leave the link off than send you to an empty site.
 
 **Why aliases and not 301s.** A 301 sends the visitor somewhere else — second request, extra round trip, every alias a hop away from the real site. A parked domain alias serves the same WordPress install directly. The catch nobody mentions: several domains serving identical content is a duplicate-content problem unless the canonical tag points every variant at one preferred URL. So aliases for speed, canonical tags for search, and one place where the content actually lives.
 
